@@ -122,13 +122,7 @@
 - **Fork** 项目，参与改进和定制
 - 分享给你的朋友和同事
 
-### 💰 赞赏支持
-你的赞赏将用于项目的持续开发和维护：
 
-<div align="center">
-  <img src="https://img.zhengmi.org/file/1743956440128_4b965550184c06d8164f8077fa42b5d.jpg" alt="微信赞赏码" width="300">
-  <p><em>微信扫码赞赏</em></p>
-</div>
 
 ### 🤝 其他支持方式
 - 💬 提交有价值的 Issue 和 Feature Request
@@ -156,8 +150,5 @@
 
 [立即部署](https://deploy.workers.cloudflare.com/?url=https://github.com/zqq-nuli/Cloudflare-Navihive) • [在线演示](https://navihive.chatbot.cab/) • [完整文档](https://zqq-nuli.github.io/Cloudflare-Navihive/) • [提交问题](https://github.com/zqq-nuli/Cloudflare-Navihive/issues)
 
-Made with ❤️ by [zqq-nuli](https://github.com/zqq-nuli)
-
-⭐ 如果觉得有用，别忘了点个 Star 哦 ⭐
 
 </div>
